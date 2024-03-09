@@ -9,3 +9,6 @@ To run Morvarid-bcheck:
 3. Click on the "Import" button and navigate to the location where Morvarid-bcheck is downloaded. Select the `morvarid-dom-xss.bcheck` file.
 4. Check the checkbox to enable the imported Morvarid-bcheck.
 5. You can now scan any target by selecting "Audit checks - BCheck only" from the "Scan configuration" tab within Burp Scanner.
+
+# Article
+You can learn about the process of creating this BCheck [HERE](https://alirezakalhor.blogspot.com/2024/03/bcheck.html).
